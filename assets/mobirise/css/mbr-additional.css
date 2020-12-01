@@ -7383,59 +7383,52 @@ a {
     left: -1rem;
   }
 }
-.cid-shRFYvYJUb {
-  padding-top: 6rem;
-  padding-bottom: 0rem;
+.cid-shXMkWMZ0J {
+  padding-top: 105px;
+  padding-bottom: 105px;
   background-color: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-shRFYvYJUb .image-wrap img {
-  width: 100%;
+.cid-shXMkWMZ0J .mbr-section-title {
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #232323;
+  text-align: center;
 }
-@media (min-width: 992px) {
-  .cid-shRFYvYJUb .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 70%;
-  }
+.cid-shXMkWMZ0J .nav {
+  border: none;
 }
-.cid-shRK58j8FH {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+.cid-shXMkWMZ0J .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
-.cid-shRK58j8FH .card-title {
-  line-height: 1.6;
-  padding: 15px 25px;
-  background: linear-gradient(to top, #333333, transparent);
-  margin: 0;
+.cid-shXMkWMZ0J .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #232323;
+  font-style: normal;
+  font-weight: 500;
+  padding: 1rem 3rem;
+  margin: 0px -0.5px 1rem -0.5px;
+  transition: all .5s;
+  border-radius: 0px !important;
+  border-bottom: 1px solid #232323;
 }
-.cid-shRK58j8FH .card {
-  margin-bottom: 2rem;
-  owerflow: hidden;
+.cid-shXMkWMZ0J .nav-tabs .nav-link:hover {
+  border: 1px solid #232323;
+  background-color: #232323;
+  color: #ffffff;
 }
-.cid-shRK58j8FH .card-wrapper {
-  overflow: hidden;
-  position: relative;
+.cid-shXMkWMZ0J .nav-tabs .nav-link.active {
+  border: 1px solid #232323;
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  background: #232323;
 }
-.cid-shRK58j8FH .card-img {
-  overflow: hidden;
-  position: relative;
-}
-.cid-shRK58j8FH .card-box {
-  position: absolute;
-  overflow: hidden;
-  width: 100%;
-  left: 0;
-  bottom: 0px;
-  padding: 0px;
-}
-.cid-shRK58j8FH .mbr-section-title {
-  color: #656565;
-}
-@media (max-width: 991px) {
-  .cid-shRK58j8FH .card-title {
-    padding: 10px 15px;
-  }
+.cid-shXMkWMZ0J P {
+  text-align: center;
 }
 .cid-shSmv3Wfym {
   z-index: 1000;
